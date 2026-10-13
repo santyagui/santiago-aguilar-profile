@@ -17,9 +17,14 @@ Diagnostiqué fallas eléctricas y electrónicas en maquinaria pesada, apoyé la
 **Práctica preprofesional · STARTLABS** · 2022  
 Apoyé el mantenimiento de equipos de diseño y maquinaria de corte, así como la fabricación y desarrollo de productos.
 
+## Trabajo de titulación
+
+**Brazo robótico de seis grados de libertad · BHLEM-PAC** · Universidad Politécnica Salesiana · 2023
+
+Diseñé y construí un sistema mecatrónico para la elaboración de envases de bambú. Integré cálculos estructurales y selección de materiales, tableros de control y potencia, PLC-HMI, motores paso a paso, neumática y electroválvulas. También participé en la puesta en marcha, el diagnóstico de fallas y la documentación técnica.
+
 ## Proyectos
 
-- **Brazo robótico de seis grados de libertad para envases de bambú (BHLEM-PAC, 2023).** Diseñé y construí el sistema, integrando estructura, tableros de control y potencia, PLC-HMI, motores paso a paso y neumática. Participé en la puesta en marcha y resolución de fallas.
 - **Monitoreo remoto de un tanque industrial.** Integré sensores, visualización HMI y comunicación LoRa para transmitir variables a una estación ubicada a unos cinco kilómetros.
 - **Visión artificial e IA.** Colaboré en aplicaciones para clasificar colores, formas y tamaños, analizar movimiento corporal y detectar puntos faciales como apoyo a estudios de fatiga.
 

@@ -39,7 +39,11 @@ h1 { margin-bottom: 0; font-size: clamp(3.4rem, 6.7vw, 5.6rem); font-weight: 640
 .button-dark:hover { background: var(--green); }
 .button-outline { border-color: rgba(32,54,51,.2); }
 .button-outline:hover { border-color: var(--green); color: var(--green); }
-.portrait { position: relative; width: min(100%, 370px); justify-self: end; overflow: visible; border-radius: 27px; background: #e8e6df; box-shadow: 15px 16px 0 #dce7de, 0 25px 60px rgba(32,54,51,.12); }
+.portrait { position: relative; width: min(100%, 370px); min-height: 350px; justify-self: end; overflow: visible; border-radius: 27px; background: #e8e6df; box-shadow: 15px 16px 0 #dce7de, 0 25px 60px rgba(32,54,51,.12); }
+.profile-card { display: flex; flex-direction: column; justify-content: space-between; padding: 32px; }
+.profile-card figcaption { position: static; padding: 0; border-radius: 0; background: none; color: var(--ink); }
+.profile-card figcaption span { color: var(--muted); }
+.profile-card .study-note { position: static; width: auto; margin-top: 25px; box-shadow: none; }
 .portrait img { display: block; width: 100%; aspect-ratio: .95; border-radius: 27px; object-fit: cover; object-position: center 35%; }
 .portrait figcaption { position: absolute; inset: auto 0 0; display: flex; flex-direction: column; gap: 5px; padding: 54px 22px 21px; border-radius: 0 0 27px 27px; background: linear-gradient(transparent, rgba(23,43,43,.82)); color: white; }
 .portrait figcaption strong { font-size: 1.05rem; }
@@ -75,7 +79,11 @@ h2 { margin-bottom: 0; font-size: clamp(2rem, 4vw, 3rem); font-weight: 580; lett
 .project-heading h2 { max-width: 620px; }
 .project-heading > p { max-width: 350px; margin: 0 0 4px; color: rgba(255,255,255,.65); font-size: .88rem; line-height: 1.7; }
 .light-green { margin: 0 0 12px; color: #a7c4b1; }
-.project-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; }
+.project-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 15px; }
+.thesis-card { max-width: 850px; padding: 30px; border: 1px solid var(--line); border-radius: 18px; background: white; }
+.thesis-meta { margin: 0 0 14px; color: var(--green); font-size: .75rem; font-weight: 700; letter-spacing: .08em; line-height: 1.6; text-transform: uppercase; }
+.thesis-card > p:last-child { margin: 0; color: var(--muted); font-size: .94rem; line-height: 1.8; }
+.profile-focus { max-width: 280px; margin: 25px 0 0; color: #53645e; font-size: 1rem; line-height: 1.7; }
 .project-card { display: flex; flex-direction: column; min-height: 380px; padding: 25px; border: 1px solid rgba(255,255,255,.12); border-radius: 17px; background: rgba(255,255,255,.045); transition: transform .2s, background .2s, border-color .2s; }
 .project-card:hover { transform: translateY(-4px); border-color: rgba(167,196,177,.4); background: rgba(255,255,255,.07); }
 .project-top { display: flex; justify-content: space-between; color: #a7c4b1; font-size: .8rem; }
