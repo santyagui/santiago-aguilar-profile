@@ -13,7 +13,7 @@ Me gusta entender cómo funciona un sistema completo: desde la señal de un sens
 **Auxiliar de laboratorio · Universidad Politécnica Salesiana** · Mayo 2024–actualidad  
 Mantengo y pruebo equipos para prácticas académicas, apoyo a docentes, estudiantes y tesistas con PLC e instrumentación, y preparo guías e informes técnicos. También coordino mantenimientos, insumos y actividades seguras.
 
-**Mantenimiento y bodega · SERMEC** · Marzo 2019–junio 2020  
+**Mantenimiento y bodega · SERMEC** · Marzo 2019–junio 2021  
 Diagnostiqué fallas eléctricas y electrónicas en maquinaria pesada, apoyé la calibración de sensores y el mantenimiento preventivo y predictivo. También gestioné registros de repuestos e inventario.
 
 **Práctica preprofesional · STARTLABS** · 2022  
