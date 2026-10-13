@@ -2,8 +2,6 @@
 
 ### Ingeniero mecatrónico · Automatización · Mantenimiento industrial · IA aplicada
 
-![Santiago Aguilar Silva](assets/santiago-aguilar.jpg)
-
 **Quito, Ecuador** · [Correo](mailto:s.santiagoa73@gmail.com) · [Teléfono](tel:+593999954357)
 
 Me gusta entender cómo funciona un sistema completo: desde la señal de un sensor hasta las personas que dependen de que un equipo siga operando. Soy ingeniero mecatrónico y he trabajado en mantenimiento, soporte de laboratorio y automatización. Hoy amplío esa experiencia con estudios en inteligencia artificial aplicada.
