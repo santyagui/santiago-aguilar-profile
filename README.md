@@ -19,9 +19,12 @@ Apoyé el mantenimiento de equipos de diseño y maquinaria de corte, así como l
 
 ## Trabajo de titulación
 
-**Brazo robótico de seis grados de libertad · BHLEM-PAC** · Universidad Politécnica Salesiana · 2023
+**Diseño y construcción de un sistema de inyección de goma con un actuador giratorio y un brazo robótico integrado para posicionar y engomar latillas de bambú**  
+Trabajo de titulación en colaboración con **Juan David Benavides Ávila** · Mecatrónica, Universidad Politécnica Salesiana · 2023 · BHLEM-PAC
 
-Diseñé y construí un sistema mecatrónico para la elaboración de envases de bambú. Integré cálculos estructurales y selección de materiales, tableros de control y potencia, PLC-HMI, motores paso a paso, neumática y electroválvulas. También participé en la puesta en marcha, el diagnóstico de fallas y la documentación técnica.
+Desarrollamos una máquina para posicionar y aplicar pegamento en latillas de bambú para fabricar recipientes cilíndricos. El trabajo incluyó diseño estructural, integración de PLC-HMI, motores paso a paso y neumática, además de la puesta en marcha y pruebas del sistema.
+
+[Ver tesis en el repositorio de la UPS ↗](https://dspace.ups.edu.ec/handle/123456789/25873)
 
 ## Proyectos
 

@@ -82,7 +82,8 @@ h2 { margin-bottom: 0; font-size: clamp(2rem, 4vw, 3rem); font-weight: 580; lett
 .project-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 15px; }
 .thesis-card { max-width: 850px; padding: 30px; border: 1px solid var(--line); border-radius: 18px; background: white; }
 .thesis-meta { margin: 0 0 14px; color: var(--green); font-size: .75rem; font-weight: 700; letter-spacing: .08em; line-height: 1.6; text-transform: uppercase; }
-.thesis-card > p:last-child { margin: 0; color: var(--muted); font-size: .94rem; line-height: 1.8; }
+.thesis-card > p:nth-of-type(2) { margin: 0; color: var(--muted); font-size: .94rem; line-height: 1.8; }
+.thesis-link { margin-top: 22px; }
 .profile-focus { max-width: 280px; margin: 25px 0 0; color: #53645e; font-size: 1rem; line-height: 1.7; }
 .project-card { display: flex; flex-direction: column; min-height: 380px; padding: 25px; border: 1px solid rgba(255,255,255,.12); border-radius: 17px; background: rgba(255,255,255,.045); transition: transform .2s, background .2s, border-color .2s; }
 .project-card:hover { transform: translateY(-4px); border-color: rgba(167,196,177,.4); background: rgba(255,255,255,.07); }
