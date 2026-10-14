@@ -244,63 +244,63 @@ h2 { font-weight: 640; }
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; }
 }
 
-/* Dark portfolio theme inspired by the supplied Webtech Dark reference. */
+/* Warm cream portfolio theme inspired by the supplied Webtech Dark reference. */
 :root {
-  color-scheme: dark;
-  --ink: #f0f2f4;
-  --muted: #a1aab2;
-  --green: #75dec9;
-  --paper: #0b0d10;
-  --line: rgba(225,235,241,.12);
+  color-scheme: light;
+  --ink: #182b2c;
+  --muted: #5d6b69;
+  --green: #087f70;
+  --paper: #f7f4ec;
+  --line: rgba(24,43,44,.13);
 }
 body {
-  background-color: #0b0d10;
-  background-image: radial-gradient(ellipse at 75% 5%, rgba(58,105,105,.17), transparent 35%), radial-gradient(rgba(210,225,230,.16) .7px, transparent .9px);
-  background-size: auto, 24px 24px;
+  background-color: #f7f4ec;
+  background-image: radial-gradient(ellipse at 75% 5%, rgba(73,138,126,.12), transparent 35%), radial-gradient(rgba(38,66,62,.12) .65px, transparent .9px);
+  background-size: auto, 26px 26px;
   color: var(--ink);
 }
-.site-header { position: sticky; top: 0; min-height: 72px; border-color: rgba(225,235,241,.1); background: rgba(11,13,16,.78); backdrop-filter: blur(18px); }
-.brand span { color: #818b93; }
-nav { color: #b7c0c6; }
-nav .nav-cta, .button-dark { background: #e9f0f1; color: #101619; }
-nav .nav-cta:hover, .button-dark:hover { background: #75dec9; color: #0b0d10; }
+.site-header { position: sticky; top: 0; min-height: 72px; border-color: rgba(24,43,44,.1); background: rgba(247,244,236,.86); backdrop-filter: blur(18px); }
+.brand span { color: #727f7c; }
+nav { color: #465855; }
+nav .nav-cta, .button-dark { background: #182b2c; color: #fffdf8; }
+nav .nav-cta:hover, .button-dark:hover { background: #087f70; color: #fffdf8; }
 .hero { isolation: isolate; }
-.hero::after { border-color: rgba(117,222,201,.16); }
-.location { background: rgba(117,222,201,.1); color: #a7f0df; }
-.hero .eyebrow, .green, .place, .skill-list h4 { color: #75dec9; }
-h1 em { color: #a1aab2; }
-.lead { color: #d5dce0; }
-.intro { color: #a1aab2; }
-.button-outline { border-color: rgba(220,231,235,.24); color: #e4e9eb; }
-.button-outline:hover { border-color: #75dec9; color: #75dec9; }
-.engineering-board { box-shadow: 12px 13px 0 rgba(117,222,201,.12), 0 28px 60px rgba(0,0,0,.4); }
-.principles { border-color: var(--line); background: rgba(20,24,29,.78); }
-.principles span, .muted, .job ul, .skill-list p, .education-card p, .edu-date { color: #a1aab2; }
+.hero::after { border-color: rgba(8,127,112,.17); }
+.location { background: rgba(8,127,112,.08); color: #087f70; }
+.hero .eyebrow, .green, .place, .skill-list h4 { color: #087f70; }
+h1 em { color: #667572; }
+.lead { color: #304744; }
+.intro { color: #5d6b69; }
+.button-outline { border-color: rgba(24,43,44,.22); color: #182b2c; }
+.button-outline:hover { border-color: #087f70; color: #087f70; }
+.engineering-board { box-shadow: 12px 13px 0 rgba(8,127,112,.14), 0 28px 60px rgba(30,45,42,.16); }
+.principles { border-color: var(--line); background: rgba(255,253,248,.84); }
+.principles span, .muted, .job ul, .skill-list p, .education-card p, .edu-date { color: #5d6b69; }
 .section-heading h2, .job h3, .thesis-card, .education-card, .learning-block { color: var(--ink); }
-.date { color: #ff9b75; }
-.timeline { border-color: rgba(117,222,201,.3); }
-.job::before { border-color: #0b0d10; background: #75dec9; }
-.thesis-card, .education-card { border-color: var(--line); background: #14181d; box-shadow: none; }
-.thesis-meta { color: #75dec9; }
-.thesis-card > p:nth-of-type(2) { color: #a1aab2; }
+.date { color: #a45332; }
+.timeline { border-color: rgba(8,127,112,.28); }
+.job::before { border-color: #f7f4ec; background: #087f70; }
+.thesis-card, .education-card { border-color: var(--line); background: rgba(255,253,248,.9); box-shadow: 0 8px 30px rgba(30,45,42,.045); }
+.thesis-meta { color: #087f70; }
+.thesis-card > p:nth-of-type(2) { color: #5d6b69; }
 .projects { background: #11151a; }
 .project-card { border-color: rgba(225,235,241,.12); background: rgba(255,255,255,.035); }
 .project-card:hover { border-color: rgba(117,222,201,.5); background: rgba(255,255,255,.06); }
 .project-top, .light-green { color: #75dec9; }
 .education { color: var(--ink); }
-.edu-mark { background: rgba(117,222,201,.13); color: #75dec9; }
-.edu-date { color: #ff9b75; }
+.edu-mark { background: rgba(8,127,112,.1); color: #087f70; }
+.edu-date { color: #8b603d; }
 .skills-block, .learning-block { border-color: var(--line); }
-.learning-block { background: #14191e; }
-.chips span { border-color: var(--line); background: #1a2026; color: #c5cdd1; }
-.additional { color: #a1aab2; }
-.additional b { color: #f0f2f4; }
-.contact { background: radial-gradient(ellipse at 80% 50%, rgba(52,111,105,.25), transparent 45%), #11161a; }
-.contact-inner > div:first-child > p:last-child, .contact-details { color: #a1aab2; }
-.contact-details a:first-child { color: #e9f0f1; }
-.contact-details a:hover { color: #75dec9; }
-.site-footer { background: #080a0c; }
+.learning-block { background: #eeece3; }
+.chips span { border-color: var(--line); background: rgba(255,253,248,.85); color: #465855; }
+.additional { color: #5d6b69; }
+.additional b { color: #182b2c; }
+.contact { background: radial-gradient(ellipse at 80% 50%, rgba(73,138,126,.13), transparent 45%), #eeece3; }
+.contact-inner > div:first-child > p:last-child, .contact-details { color: #52625f; }
+.contact-details a:first-child { color: #182b2c; }
+.contact-details a:hover { color: #087f70; }
+.site-footer { background: #182b2c; }
 @media (max-width: 760px) {
-  .site-header { background: rgba(11,13,16,.9); }
-  .engineering-board { box-shadow: 7px 8px 0 rgba(117,222,201,.12), 0 22px 50px rgba(0,0,0,.4); }
+  .site-header { background: rgba(247,244,236,.92); }
+  .engineering-board { box-shadow: 7px 8px 0 rgba(8,127,112,.14), 0 22px 50px rgba(30,45,42,.17); }
 }
