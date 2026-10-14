@@ -2,6 +2,12 @@
 
 ### Ingeniero mecatrónico · Automatización · Mantenimiento industrial · IA aplicada
 
+| Automatización industrial | Manufactura aditiva | Mantenimiento industrial |
+| --- | --- | --- |
+| ![Equipo de automatización industrial con panel de control](https://images.pexels.com/photos/36564992/pexels-photo-36564992/free-photo-of-industrial-automation-equipment-with-control-panel.jpeg?auto=compress&cs=tinysrgb&w=700) | ![Pieza impresa en 3D](https://images.pexels.com/photos/31121900/pexels-photo-31121900/free-photo-of-precision-3d-printing-in-a-modern-workshop.jpeg?auto=compress&cs=tinysrgb&w=700) | ![Técnico diagnosticando un panel con multímetro](https://images.pexels.com/photos/14319099/pexels-photo-14319099.jpeg?auto=compress&cs=tinysrgb&w=700) |
+
+*Las fotografías son ilustrativas; el gráfico de la versión web representa análisis de datos, visión artificial e inteligencia artificial. Imágenes de [Maarten Ceulemans](https://www.pexels.com/photo/industrial-automation-equipment-with-control-panel-36564992/), [Jakub Zerdzicki](https://www.pexels.com/photo/precision-3d-printing-in-a-modern-workshop-31121900/) y [Onics Energy](https://www.pexels.com/photo/man-fixing-electric-box-14319099/) en Pexels.*
+
 **Quito, Ecuador** · [Correo](mailto:s.santiagoa73@gmail.com) · [Teléfono](tel:+593999954357)
 
 Me gusta entender cómo funciona un sistema completo: desde la señal de un sensor hasta las personas que dependen de que un equipo siga operando. Soy ingeniero mecatrónico y he trabajado en mantenimiento, soporte de laboratorio y automatización. Hoy amplío esa experiencia con estudios en inteligencia artificial aplicada.
@@ -28,7 +34,7 @@ Desarrollamos una máquina para posicionar y aplicar pegamento en latillas de ba
 
 ## Proyectos
 
-- **Monitoreo remoto de un tanque industrial.** Integré sensores, visualización HMI y comunicación LoRa para transmitir variables a una estación ubicada a unos cinco kilómetros.
+- **Monitoreo remoto de nivel en tanque industrial.** Integré sensores, visualización HMI y comunicación LoRa para transmitir variables a una estación ubicada a unos cinco kilómetros.
 - **Visión artificial e IA.** Colaboré en aplicaciones para clasificar colores, formas y tamaños, analizar movimiento corporal y detectar puntos faciales como apoyo a estudios de fatiga.
 
 ## Formación
@@ -53,4 +59,4 @@ Desarrollamos una máquina para posicionar y aplicar pegamento en latillas de ba
 
 ---
 
-Este repositorio incluye una versión web en `index.html`, hecha con HTML y CSS sin dependencias externas. Puedes revisar el código desde la pestaña **Code**. La vista de este perfil se muestra directamente en este README de GitHub.
+Este repositorio incluye una versión web en `index.html`, hecha con HTML y CSS. Puedes revisar el código desde la pestaña **Code**. La vista de este perfil se muestra directamente en este README de GitHub.
